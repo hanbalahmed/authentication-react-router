@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: "Roboto", sans-serif;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: black;
+  height: 100vh;
+  color: ghostwhite;
+}
+span {
+  font-family: "Lobster", sans-serif;
+}
+a {
+  border: 1px solid slateblue;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: whitesmoke;
+  margin-top: 20px;
+  border-radius: 0.15rem;
+}
